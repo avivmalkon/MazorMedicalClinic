@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מרפאת מזור</string>
+    <string name="welcome">ברוך הבא למרפאת מזור !</string>
+    <string name="book_appointment">קביעת תור לרופא</string>
+    <string name="contact">צור קשר</string>
+    <string name="add_to_contacts">הוסף לאנשי הקשר</string>
+    <string name="mail_us">שלח לנו מייל:</string>
+    <string name="select_doctor">בחר רופא:</string>
+    <string name="dr1">ד\"ר חיים כהן</string>
+    <string name="dr2">ד\"ר יעקב יצחקי</string>
+    <string name="dr3">ד\"ר אברהם אבינו</string>
+    <string name="dr4">ד\"ר ירון ברלד</string>
+    <string name="dr5">פרופ\' תמר סלובודוב</string>
+    <string name="dr6">ד\"ר אביתר כץ</string>
+    <string name="dr7">פרופ\' דניאל לוי</string>
+    <string name="orthopedics">אורתופדיה</string>
+    <string name="ent">אף-אוזן-גרון</string>
+    <string name="family_doctor">רפואת משפחה</string>
+    <string name="back">חזרה</string>
+    <string name="dr8">ד\"ר גדי מיכאלשווילי</string>
+    <string name="dr9">פרופ\' אוסנת רבין</string>
+    <string name="exit">יציאה</string>
+    <string name="our_address">כתובתינו:</string>
+    <string name="address">הגפן 29, מושב מזור</string>
+    <string name="israel">ישראל</string>
+    <string name="appointment_setted">התור שלך נקבע בהצלחה ל</string>
+    <string name="on">"בתאריך: "</string>
+    <string name="at">"בשעה: "</string>
+    <string name="back_to_main_menu">חזרה לעמוד הראשי</string>
+    <string name="phone">מספר טלפון:</string>
+    <string name="call">חייג</string>
+    <string name="pls_grant_call_per">נא אפשר הרשאת שימוש בטלפון.</string>
+    <string name="send">שליחה</string>
+    <string name="subject">נושא</string>
+    <string name="send_with">שלח באמצעות:</string>
+    <string name="waze">נווט ב- Waze</string>
+    <string name="add_to_calendar">הוסף אירוע ליומן</string>
+    <string name="calendar_name">תור ל</string>
+    <string name="search">חפש</string>
+    <string name="search_on_google">חפש על הרופא שלך בגוגל:</string>
+    <string name="type_to_search">הקלד ערך לחיפוש בגוגל . . .</string>
+    <string name="add_alarm">הוסף תזכורת בשעון המעורר</string>
+    <string name="reminder_msg">תזכורת: התור לרופא שלך בעוד כשעה</string>
+    <string name="sms_teq_support">שלחו לנו SMS לתמיכה טכנית</string>
+</resources>
